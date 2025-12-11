@@ -1,0 +1,42 @@
+.hero-section {
+  background-image: url("../assets/Image/Rectangle\ 71.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* O background para exatamente aqui, onde a altura acaba! */
+  height: 700px;
+  width: 100%;
+}
+.Topic {
+  width: 945px;
+  height: 502px;
+  color: white;
+}
+.Topic h1 {
+  font-size: 60px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.Topic h2 {
+  font-size: 36px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.Topic p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+.Topic button {
+  width: 348px ;
+  height: 69px;
+  background-color: #ffffff;
+
+  border-radius: 8px;
+  color: #7717D7;
+
+  font-size: 36px;
+  font-weight: 400px;
+  cursor: pointer;
+}
